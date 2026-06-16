@@ -35,7 +35,7 @@ Look up geolocation and network info for any public IP address — or leave blan
 
 | About | Subnet Calculator | Network Scanner | IP Info Lookup |
 |-------|------------------|----------------|----------------|
-| ![About](screenshots/about.png) | ![Subnet](screenshots/subnet.png) | ![Scanner](screenshots/scanner.png) | ![IP Lookup](screenshots/iplookup.png) |
+| ![About](about.png) | ![Subnet](subnetcalculator.png) | ![Scanner](netscanner.png) | ![IP Lookup](iplookup.png) |
 
 ---
 
